@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <h3 align="center"><a href="https://www.linkedin.com/in/mdalaminali/">
-        <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Gregorius+Al+Amin😊;A+Ethical/White+Hat+Hacker💻;A+Front-End+Web+Developer&font=JetBrains%20Mono&width=380&height=60&color=68C3D4&vCenter=true&size=21"></a>
+        <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Md+Alamin+A.+♡;A+Ethical/White+Hat+Hacker💻;A+Front-End+Web+Developer&font=JetBrains%20Mono&width=380&height=60&color=68C3D4&vCenter=true&size=21"></a>
         </h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
