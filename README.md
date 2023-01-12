@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Al Amin</h1>
+<h1>👋 Hello!</h1>
 
-<h3 align="center">Flying aimlessly in the infinite universe of technology</h3>
+
+
+<h3 align="center"><a href="https://www.linkedin.com/in/mdalaminali/">
+        <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Gregorius+Al+Amin😊;A+Ethical/White+Hat+Hacker💻;A+Front-End+Web+Developer&font=JetBrains%20Mono&width=380&height=60&color=68C3D4&vCenter=true&size=21"></a>
+        </h3>
+
+
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alamin0x01" /> </p>
 
