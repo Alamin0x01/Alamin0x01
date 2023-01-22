@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alamin0x01" /> </p>
-<p align="left"> <a href="https://twitter.com/alamin0x01" target="blank"><img src="https://img.shields.io/twitter/follow/Alamin?logo=twitter&style=for-the-badge" alt="alamin0x01" /></a> </p>
+
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I’m currently learning **Cyber security & Web Development**
 . <br>
