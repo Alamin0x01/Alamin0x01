@@ -45,12 +45,10 @@
          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
         <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
-<!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
-<p align="center">  <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
-<img src="https://camo.githubusercontent.com/bdbbe173806a903780004f3952bd88e1e968c72041394bf8ca540243e101a4df/68747470733a2f2f6769746875622d726561646d652d73746174732d7472696e69622e76657263656c2e6170702f6170693f757365726e616d653d7472696e69622673686f775f69636f6e733d74727565267468656d653d6d65726b6f"><img src="https://camo.githubusercontent.com/0166777a9d68e1d62dda37c1e270295af5586759898f304b08b879a129c4a6b3/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d7472696e6962267468656d653d6d65726b6f26646174655f666f726d61743d4d2532306a25354225324325323059253544">
-<!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
-<img src="https://camo.githubusercontent.com/5727cceaf70d64b4b7b227987461b67ec8a93473be1cdb2a2ac72b507c72bba0/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7472696e696226637573746f6d5f7469746c653d254532253936253931254532253936253931282545322539372541335f2545322539372541322925453225393625393125453225393625393126686964655f626f726465723d74727565267468656d653d72656163742d6461726b26636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
-           <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- --><!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- --><!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api?username=alamin0x01&show_icons=true&locale=en&theme=tokyonight" alt="alamin0x01" width="50%" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x01&&theme=tokyonight" alt="alamin0x01" width="50%" /></p>
+<div/>         
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
