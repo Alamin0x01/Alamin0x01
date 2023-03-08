@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <h3 align="center"><a href="https://www.linkedin.com/in/mdalaminali/">
-        <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Md+Alamin+A.+♡;A+Ethical/White+Hat+Hacker💻;A+Front-End+Web+Developer&font=JetBrains%20Mono&width=380&height=60&color=68C3D4&vCenter=true&size=21"></a>
+        <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=I+Am+Md+Alamin+A.+♡;A+Ethical/White+Hat+H4cker💻;A+Front-End+Web+Developer&font=JetBrains%20Mono&width=380&height=60&color=68C3D4&vCenter=true&size=21"></a>
         </h3> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <img align="right" alt="coding" width="400" src="https://github.com/Alamin0x01/Alamin0x01/blob/main/tech.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alamin0x01" /> 
