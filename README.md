@@ -26,7 +26,7 @@
 <a href="/alamin0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="alamin0x01" height="30" width="40" /></a> 
 </p> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
-<h3 align="left">Languages and Tools: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="20px"> </h3>
+<h3 align="left">Languages and Tools: <img src="https://github.com/golden821man/golden821man/blob/main/code.gif" width="25px"> </h3>
 <p align="left"> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
