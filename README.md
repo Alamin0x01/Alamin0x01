@@ -75,7 +75,7 @@
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>     
 </p>
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api?username=alamin0x01&show_icons=true&locale=en&theme=tokyonight" alt="alamin0x01" width="50%" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=alamin0x01&show_icons=true&locale=en&theme=tokyonight" alt="alamin0x01" width="50%" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x01&&theme=tokyonight" alt="alamin0x01" width="50%" /></p>
 <div/>         
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
