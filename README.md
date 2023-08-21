@@ -78,8 +78,9 @@
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=alamin0x01&show_icons=true&locale=en&theme=tokyonight" alt="alamin0x01" width="50%" /></p> -->
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin0x01&&theme=tokyonight" alt="alamin0x01" width="50%" /></p>
 <div/>         
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<!--
+        <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">                      -->
 <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
 <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
