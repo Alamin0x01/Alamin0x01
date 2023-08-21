@@ -84,9 +84,9 @@
 <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
 <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
- <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- --><!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- --><!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
+ <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- --><!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- --><!-- ! ............... https://github.com/Alamin0x01/ -----------------
 <p align="center">
         <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
-        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+        <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">                                         -->                                     
 <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
         <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
