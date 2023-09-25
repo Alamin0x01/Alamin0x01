@@ -10,7 +10,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="24" />&nbsp;&nbsp;&nbsp;I’m currently learning **Cyber security & Web Development**.
 <br> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 - <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif?raw=true" width="18" />&nbsp;&nbsp;&nbsp;  I like exploring **GNU/Linux**.
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about - **Mail:** alamin0x01@proton.me
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about - **Mail:** alaminsec@proton.me
  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;All of my **projects** are available at [https://alaminsec.me](https://alaminsec.me)
 <!--  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about **Technology, Movies, or anything**. -->
  <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
