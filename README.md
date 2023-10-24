@@ -14,7 +14,7 @@
  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;All of my **projects** are available at [https://alaminsec.me](https://alaminsec.me)
 <!--  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about **Technology, Movies, or anything**. -->
  <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
-<!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
+<!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ------------------ -->
 <h3 align="left">Connect with me: 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px"> </h3>     
 <p align="left"> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
