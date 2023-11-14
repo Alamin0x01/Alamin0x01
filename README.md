@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alamin0x01" /> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="24" />&nbsp;&nbsp;&nbsp;I’m currently learning **Cyber security & Web Development**.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="24" />&nbsp;&nbsp;&nbsp;I’m currently learning **Web Development**.
 <br> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 - <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif?raw=true" width="18" />&nbsp;&nbsp;&nbsp;  I like exploring **GNU/Linux**.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about - **Mail:** alaminsec@proton.me
