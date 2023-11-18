@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/alamin0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alamin0x01" height="30" width="40" /></a>
  <a href="https://discord.gg/alamin0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akhan.invite.code.dete.hobe" height="30" width="40" /></a>
 <a href="/alamin0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="alamin0x01" height="30" width="40" /></a> 
-</p> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
+</p> <!-- ! ............... https://github.com/Alamin0x01/ ------------------ -->
 <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <h3 align="left">Languages and Tools: <img src="https://github.com/golden821man/golden821man/blob/main/code.gif" width="25px"> </h3>
 <p align="left"> 
