@@ -1,5 +1,5 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
+<!-- ! ............... https://github.com/Alamin0x01/ ------------------ -->
 <h3 align="center"><a href="https://www.linkedin.com/in/mdalaminali/">
         <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=<+>+I+Am+Md+Alamin+A.+♡+</>;<+>+A+Full-stack+Developer+👩‍💻+</>;A+Cyber+Security+Enthusiast+💻&font=JetBrains%20Mono&width=380&height=20&color=68C3D4&vCenter=true&size=20"></a>
  </h3> <!-- ! ............... https://github.com/Alamin0x01/ ---------------- -->
