@@ -2,7 +2,7 @@
 <!-- ! ............... https://github.com/Alamin0x01/ ------------------ -->
 <h3 align="center"><a href="https://www.linkedin.com/in/mdalaminali/">
         <img alt="Gregorius Al amin" src="https://readme-typing-svg.herokuapp.com/?lines=<+>+I+Am+Md+Alamin+A.+♡+</>;<+>+A+Full-stack+Developer+👩‍💻+</>;A+Cyber+Security+Enthusiast+💻&font=JetBrains%20Mono&width=380&height=20&color=68C3D4&vCenter=true&size=20"></a>
- </h3> <!-- ! ............... https://github.com/Alamin0x01/ ---------------- -->
+ </h3> <!-- ! ............... https://github.com/Alamin0x01/ --------------- -->
 <img align="right" alt="coding" width="400" src="https://github.com/Alamin0x01/Alamin0x01/blob/main/tech.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alamin0x01&label=Profile%20views&color=0e75b6&style=flat" alt="alamin0x01" /> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
