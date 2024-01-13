@@ -8,6 +8,7 @@
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="24" />&nbsp;&nbsp;&nbsp;I’m currently learning **Web Development**.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif?raw=true" width="24" />&nbsp;&nbsp;&nbsp;Write blogs on [Dev.to](https://dev.to/alamin0x01) & [Medium](https://www.medium.com/@Alamin0x01)
 <br> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 - <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif?raw=true" width="18" />&nbsp;&nbsp;&nbsp;  I like exploring **GNU/Linux**.
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about - **Mail:** alamin.dev.sec@gmail.com
