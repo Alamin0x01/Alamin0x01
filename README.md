@@ -16,8 +16,8 @@
 <!--  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about **Technology, Movies, or anything**. -->
  <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ----------------- -->
 <!-- ! ............... https://www.linkedin.com/in/mdalaminali/ ------------------- -->
-<h3 align="left">Connect with me: 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="20px"> </h3>     
+<h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="50" width="40">
+ </h3>     
 <p align="left"> <!-- ! ............... https://github.com/Alamin0x01/ ----------------- -->
 <a href="https://twitter.com/alamin0x01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alamin0x01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mdalaminali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdalaminali" height="30" width="40" /></a>
